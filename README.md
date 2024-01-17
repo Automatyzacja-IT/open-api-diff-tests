@@ -1,1 +1,1 @@
-Projekt znajdujący się w tym repozytorium jest częścią artykułu ["Testowanie kompatybilności wstecznej serwisów API"](https://automatyzacja.it/2023/08/24/testowanie-rest-api-za-pomoca-json-schema/) znajdującego się na testerskim blogu [Automatyzacja.IT](https://automatyzacja.it/blog).
+Projekt znajdujący się w tym repozytorium jest częścią artykułu ["Testowanie kompatybilności wstecznej serwisów API"](https://automatyzacja.it/2024/01/17/testowanie-kompatybilnosci-wstecznej-serwisow-api) znajdującego się na testerskim blogu [Automatyzacja.IT](https://automatyzacja.it/blog).
